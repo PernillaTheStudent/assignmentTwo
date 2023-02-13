@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules/
+
+src/copies/*
+copies/*
+src/dateProgram*
+src/getCommand*
+src/helloWorld*
+src/string-util*
+src/sum*
